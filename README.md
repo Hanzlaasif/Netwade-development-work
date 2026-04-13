@@ -11,3 +11,7 @@ Day wise all working on the development
 8. react.js = Html + Javascript
 9. Add the current date method and form method
 10. Add the css in react code.
+# Day2 and 3 working: video tutorials and implementation
+lists and props in react.js 
+nav bar in tailwind.css 
+both are implementation on vs code
