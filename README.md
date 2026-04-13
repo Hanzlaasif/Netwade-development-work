@@ -12,6 +12,6 @@ Day wise all working on the development
 9. Add the current date method and form method
 10. Add the css in react code.
 # Day2 and 3 working: video tutorials and implementation
-lists and props in react.js 
-nav bar in tailwind.css 
-both are implementation on vs code
+1. lists and props in react.js 
+2. nav bar in tailwind.css 
+3. both are implementation on vs code
