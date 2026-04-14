@@ -15,3 +15,8 @@ Day wise all working on the development
 1. lists and props in react.js 
 2. nav bar in tailwind.css 
 3. both are implementation on vs code
+# Day4 working: video tutorials and implementation
+1. condition rendring in react.js:
+   In which i implement and understand with the if, else if and else conditions, working with the previous topics like props and lists that previously implemented and solve all the excercies that mentioned.
+2. Add some styling techniques with tailwind.css in react.js
+3. All are implemented on vs code and working on Day4.
