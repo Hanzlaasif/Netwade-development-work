@@ -20,3 +20,11 @@ Day wise all working on the development
    In which i implement and understand with the if, else if and else conditions, working with the previous topics like props and lists that previously implemented and solve all the excercies that mentioned.
 2. Add some styling techniques with tailwind.css in react.js
 3. All are implemented on vs code and working on Day4.
+# Day5 working: video tutorials and implementation
+1. implement the react-icons in react.js
+2. Also implement the excercises according to react-icons and styling method
+3. adding some styling with tailwind.css in react.js
+4. implement the some handler functions and represent on console.log
+5. All are implemented on vs code and working on Day5.
+
+
